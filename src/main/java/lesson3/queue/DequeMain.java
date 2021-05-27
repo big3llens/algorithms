@@ -10,7 +10,6 @@ public class DequeMain {
         deque.remove();
         deque.remove();
         deque.remove();
-        System.out.println(deque.isFull());
         System.out.println(deque.insertFront(13));
         System.out.println(deque.removeTail());
         System.out.println(deque.insert(20));
